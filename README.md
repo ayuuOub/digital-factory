@@ -2,6 +2,12 @@
 
 A governed, LLM-powered multi-agent software-delivery system operated through Hermes Agent and explicit Human-in-the-loop approval gates.
 
+## Internship Context
+
+This project was developed as part of my first-year Engineering Cycle internship in Digital Transformation and Artificial Intelligence at ENSA Al Hoceima.
+
+The internship focused on studying modern AI systems and implementing a governed, LLM-powered multi-agent software-development workflow using Hermes Agent.
+
 ## Overview
 
 The Digital Factory coordinates eight specialized Hermes agent profiles across product analysis, UI/UX, architecture, security, development, independent QA, documentation, and orchestration.
