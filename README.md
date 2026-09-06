@@ -16,6 +16,20 @@ Hermes Kanban is used as the workflow control plane. The `digital-factory-orches
 
 The system was used in practice to develop the [Task Management App](https://github.com/ayuuOub/task-management-app), which serves as the reference software product for this workflow.
 
+## Screenshots
+
+### Hermes Kanban Workflow
+
+![Hermes Kanban workflow](docs/images/kanban_active_small.webp)
+
+Historical Digital Factory Kanban snapshot showing specialist-assigned work across workflow states. A `Blocked` item can represent work intentionally paused for Human input, approval, or another dependency.
+
+### Specialized Hermes Profiles
+
+![Digital Factory Hermes profiles](docs/images/profiles_small.webp)
+
+The eight Digital Factory specialist profiles are configured in Hermes alongside the default Hermes profile.
+
 ## Hermes Runtime
 
 The Digital Factory is operated through Hermes Agent.
